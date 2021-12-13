@@ -24,6 +24,8 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 
 - test (si, no),
 
+- periodo (from 21 February 2022 to 8 June 2022.),
+
 
 ## Table (Courses) :
 
@@ -34,3 +36,11 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 
 
 ## Table (Teachers);
+- nome
+- cognome
+<!--  -->
+
+
+## Table (appelli_esami)
+<!-- data fissata dal professore -->
+- data

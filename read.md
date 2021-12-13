@@ -43,4 +43,11 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 
 ## Table (appelli_esami)
 <!-- data fissata dal professore -->
-- data
+- data   
+
+## Table (Students)
+- nome
+- cognome
+- data di nascita
+- numero di telefono
+
